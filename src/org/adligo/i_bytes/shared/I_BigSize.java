@@ -32,5 +32,5 @@ public interface I_BigSize {
    * 
    * @return the size
    */
-  public BigInteger getSize();
+  public BigInteger size();
 }

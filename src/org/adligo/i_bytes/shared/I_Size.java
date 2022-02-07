@@ -29,5 +29,5 @@ public interface I_Size {
    * 
    * @return the size of the collection (i.e. number of bytes)
    */
-  public int getSize();
+  public int size();
 }
